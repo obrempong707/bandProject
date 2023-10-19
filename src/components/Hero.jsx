@@ -17,7 +17,7 @@ const Hero = () => {
           <p className="text-2xl">This is our tech brand</p>
           <button className="py-3 px-6 sm:w-[60%] my-4">Get Started</button>
         </div>
-        <di>
+        <div>
           <img className="w-full" src={bgImg} alt="/" />
           <div
             className="absolute flex flex-col py-8 md:min-w-[760px] bottom-
@@ -42,7 +42,7 @@ const Hero = () => {
               </p>
             </div>
           </div>
-        </di>
+        </div>
       </div>
     </div>
   );

@@ -5,7 +5,7 @@ import SupportImg from "../assets/support.jpg";
 
 const Support = () => {
   return (
-    <div className="w-full h-screen mt-24">
+    <div className="w-full  mt-24">
       <div className="w-full h-[700px] bg-gray-900/90 absolute">
         <img
           className="w-full h-full object-cover mix-blend-overlay"
@@ -13,7 +13,7 @@ const Support = () => {
           alt="/"
         />
       </div>
-      <div className="max-w-[1240px] max-auto text-white relative">
+      <div className="max-w-[1240px] mx-auto text-white relative">
         <div className="px-8 py-12">
           <h2 className="text-3xl pt-8 text-slate-300 uppercase text-center">
             Support
